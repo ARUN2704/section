@@ -1,0 +1,565 @@
+nav      {
+
+	
+			overflow:hidden;
+			background-color:white;
+			border:1px teal outset;
+			box-shadow: 5px 5px 5px 5px teal;
+			
+		 }
+		 
+		 
+		 
+nav  a	{
+	
+				float:left;
+				color: #036354;
+				text-align:center;
+				padding:20px 20px;
+				text-decoration:none;
+				font-size:20px;
+				font-weight:900;
+				font-style:italic;
+				
+				
+		}
+			
+			
+			
+
+nav a:hover  {
+	
+	
+					background-color:wwhite;
+					color:#3E061B;
+					
+		
+					
+					
+			 }
+				 
+		
+.murugan     {
+
+	
+			overflow:hidden;
+			background-color:white;
+			border:1px teal outset;
+			box-shadow:5px 5px 5px 5px #3E061B;
+			
+		 }
+		 
+		 
+		 
+.murugan   a	{
+	
+					float:left;
+					color: #036354;
+					text-align:center;
+					padding:20px 20px;
+					text-decoration:none;
+					font-size:20px;
+					font-weight:900;
+					font-style:italic;
+				
+				
+				}
+			
+			
+			
+
+.murugan  a:hover   {
+	
+	
+						background-color:wwhite;
+						color:#3E061B;
+					
+		
+					
+					
+					}
+					
+		
+.mooka h1, h3       {
+	
+						text-align:center;
+						font-weight:bolder;
+						
+						
+				
+					}
+
+
+h1					{	text-align:center;
+						font-weight:bolder;			
+				
+					}
+.work   {
+	
+				width:500px;
+				height:400px;
+				float:right;
+				
+				
+				
+		}
+				
+		
+.arun   {
+
+			font-style:italic;
+			font-weight:bold;
+			
+		}
+			
+ul      {
+
+			list-style-type:square;
+			
+		}
+	
+	
+				
+.manimegala  {
+
+
+				text-align:center;
+				font-style:italic;
+				
+				
+			 }
+		 
+		 
+		 
+.manimegala img  {	
+
+					width:750px;
+					height:650px;
+					float:left;
+					
+				 }
+					
+					
+	 
+				
+.one     {
+
+	
+			overflow:hidden;
+			background-color:white;
+			border:1px teal outset;
+			box-shadow: 5px 5px 5px 5px brown;
+			
+			
+		 }
+		 
+		 
+		 
+.one {
+	
+				float:left;
+			   	color: #036354;
+				text-align:center;
+				padding:20px 20px;
+				text-decoration:none;
+				font-size:20px;
+				font-weight:900;
+				font-style:italic;
+				margin:20px;
+				
+				
+		}
+			
+			
+			
+
+.one a:hover  {
+	
+	
+					background-color:wwhite;
+					color:#3E061B;
+					
+		
+					
+					
+			 }	 
+		 
+		 
+.one p      {
+	
+				color:brown;
+				padding:3px;
+				font-style:italic;
+				font-weight:500;
+				
+			}
+			
+			
+			
+	 
+				
+.two     {
+
+	
+			overflow:hidden;
+			background-color:white;
+			border:1px teal outset;
+			box-shadow:5px  5px 5px 5px #030F55;
+			
+			
+		 }
+		 
+		 
+		 
+.two {
+	
+				float:left;
+			   	color: #036354;
+				text-align:center;
+				padding:20px 20px;
+				text-decoration:none;
+				font-size:20px;
+				font-weight:900;
+				font-style:italic;
+				margin:20px;
+				
+				
+		}
+			
+			
+			
+
+.two a:hover  {
+	
+	
+					background-color:wwhite;
+					color:#3E061B;
+					
+		
+					
+					
+			 }	 
+		 
+		 
+.two p      {
+	
+				color:#030F55;
+				padding:3px;
+				font-style:italic;
+				font-weight:500;
+				
+			}
+			
+			
+			
+
+.three     {
+
+	
+			overflow:hidden;
+			background-color:white;
+			border:1px teal outset;
+			box-shadow:5px 5px 5px 5px #FF0043;
+			
+			
+		 }
+		 
+		 
+		 
+.three  {
+	
+				float:left;
+			   	color: #036354;
+				text-align:center;
+				padding:20px 20px;
+				text-decoration:none;
+				font-size:20px;
+				font-weight:900;
+				font-style:italic;
+				margin:20px;
+				
+				
+		}
+			
+			
+			
+
+.three a:hover  {
+	
+	
+					background-color:wwhite;
+					color:#3E061B;
+					
+		
+					
+					
+				}	 
+		 
+		 
+.three p      {
+	
+				color:#FF0043;
+				padding:3px;
+				font-style:italic;
+				font-weight:500;
+				
+			  }
+			  
+			  
+			
+			
+
+.four    {
+
+	
+			overflow:hidden;
+			background-color:white;
+			border:1px teal outset;
+			box-shadow:5px  5px 5px 5px #13A5A8 ;
+			
+			
+		 }
+		 
+		 
+		 
+.four  {
+	
+				float:left;
+			   	color: #036354;
+				text-align:center;
+				padding:20px 20px;
+				text-decoration:none;
+				font-size:20px;
+				font-weight:900;
+				font-style:italic;
+				margin:20px;
+				
+				
+		}
+			
+			
+			
+
+.four a:hover  {
+	
+	
+					background-color:wwhite;
+					color:#3E061B;
+					
+		
+					
+					
+				}	 
+		 
+		 
+.four p      {
+	
+				color:#13A5A8;
+				padding:3px;
+				font-style:italic;
+				font-weight:500;
+				
+			  }
+			  
+			  
+
+.five    {
+
+	
+			overflow:hidden;
+			background-color:white;
+			border:1px teal outset;
+			box-shadow: 5px 5px 5px 5px #02B04D;
+			
+			
+		 }
+		 
+		 
+		 
+.five  {
+	
+				float:left;
+			   	color: #036354;
+				text-align:center;
+				padding:20px 20px;
+				text-decoration:none;
+				font-size:20px;
+				font-weight:900;
+				font-style:italic;
+				margin:20px;
+				
+				
+		}
+			
+			
+			
+
+.five a:hover  {
+	
+	
+					background-color:wwhite;
+					color:#3E061B;
+					
+		
+					
+					
+				}	 
+		 
+		 
+.five  p      {
+	
+				color:#02B04D;
+				padding:3px;
+				font-style:italic;
+				font-weight:500;
+				
+			  }
+			  
+			  
+
+.six    {
+
+	
+			overflow:hidden;
+			background-color:white;
+			border:1px teal outset;
+			box-shadow:  5px 5px 5px 5px #D00000;
+			
+			
+		 }
+		 
+		 
+		 
+.six  {
+	
+				float:left;
+			   	color: #036354;
+				text-align:center;
+				padding:20px 20px;
+				text-decoration:none;
+				font-size:20px;
+				font-weight:900;
+				font-style:italic;
+				margin:20px;
+				
+				
+				
+		}
+			
+			
+			
+
+.six a:hover  {
+	
+	
+					background-color:wwhite;
+					color:#3E061B;
+					
+		
+					
+					
+				}	 
+		 
+		 
+.six  p      {
+	
+				color:#D00000;
+				padding:3px;
+				font-style:italic;
+				font-weight:500;
+				
+			  }
+			  
+			  
+			  
+.kalai	img	{
+	
+				width:400px;
+				height:300px;
+				margin:20px
+			}
+			  
+			  
+#kalai1  {
+	
+				width:500px;
+				height:700px;
+				margin:20px;
+				
+			}
+			
+			
+.seavan img {
+	
+			width:80%;
+			height:70%;
+			
+
+		 }
+		 
+		 
+.eight  {
+	
+	
+			font-weight:bold;
+			
+			
+		}
+		
+		
+.king   {
+	
+			text-align:center;
+			
+			
+			
+		}
+		
+		
+		
+		
+		
+				 
+.maker img {
+	
+			
+				width:250px;
+				height:200px;
+				
+			
+				
+				
+				
+				
+		}
+		
+		
+.name  {
+			padding:20px;
+			text-align:center;
+			border:1px teal solid;
+			box-shadow:3px 3px 3px 3px;
+			background-color:#E1FFFA;
+		}
+		
+		
+#message  {
+	
+			background-color:#039076;
+			width:20%;
+			height:10%;
+		
+			
+			
+		  }
+		  
+		  
+
+		
+		
+	   
+			   
+
+					
+				
+			  
